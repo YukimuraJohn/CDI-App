@@ -1,0 +1,4 @@
+O Arquivo CloneInterface.py possui os códigos utilizados para gerar a GUI do Programa, para excuta-lo basta chama-lá no terminal -> ' python Interface.py '
+
+The CloneInterface.py File has the codes used to generate the GUI of the Program, to run it just call it in the terminal -> ' python Interface.py ' 
+or just open this program with a python compiler.        
